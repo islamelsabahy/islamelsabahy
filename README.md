@@ -2,7 +2,7 @@
 
 **EN** — IT Manager in Cairo with 14 years in IT, running technology for real estate development companies. I build small, tested, dependency-light tools for the problems I meet at work: ERP and e-invoicing, contracts and cheques, infrastructure and operations. Everything here uses fictional sample data only.
 
-**AR** — مدير تقنية معلومات في القاهرة، 14 سنة خبرة، بشتغل في قطاع التطوير العقاري. بعمل أدوات صغيرة ومختبرة من مشاكل الشغل الحقيقية: ERP والفاتورة الإلكترونية والعقود والشيكات والبنية التحتية. كل بيانات الأمثلة وهمية.
+**AR** — مدير تقنية معلومات في مصر / القاهرة، 14 سنة خبرة، بشتغل في قطاع التطوير العقاري. بعمل أدوات صغيرة ومختبرة من مشاكل الشغل الحقيقية: ERP والفاتورة الإلكترونية والعقود والشيكات والبنية التحتية. كل بيانات الأمثلة وهمية.
 
 ## Try in the browser / جرّب من المتصفح
 
