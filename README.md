@@ -12,8 +12,11 @@
 | **arabic-contract-clause-checker** | Missing clauses and risky wording in Arabic sale/lease contracts, with PDF report | [open](https://islamelsabahy.github.io/arabic-contract-clause-checker/) |
 | **cctv-storage-planner** | Disks, retention and bandwidth for mixed camera systems, with PDF report | [open](https://islamelsabahy.github.io/cctv-storage-planner/) |
 | **odoo-real-estate-addons** | Installment schedule calculator (same logic as the Odoo module), PDF/CSV export | [open](https://islamelsabahy.github.io/odoo-real-estate-addons/) |
+| **developer-cashflow-survival** | Monte Carlo cash-flow stress test for a developer's project portfolio: will you run out of cash, and when? | [open](https://islamelsabahy.github.io/developer-cashflow-survival/) |
+| **handover-snag-pwa** | Offline-first unit handover and snag-list app with photos and a PDF punch list | [open](https://islamelsabahy.github.io/handover-snag-pwa/) |
+| **land-deal-lab** | Residual land value: the most you can pay for a parcel, by payment structure and owner deal | [open](https://islamelsabahy.github.io/land-deal-lab/) |
 
-All four run entirely client-side: nothing you paste is uploaded. / كلها بتشتغل في المتصفح من غير رفع أي بيانات.
+All of them run entirely client-side: nothing you paste is uploaded. / كلها بتشتغل في المتصفح من غير رفع أي بيانات.
 
 ## Repositories / الريبوهات
 
@@ -26,6 +29,9 @@ All four run entirely client-side: nothing you paste is uploaded. / كلها ب�
 | [cctv-storage-planner](https://github.com/islamelsabahy/cctv-storage-planner) | CCTV storage and bandwidth planner (CLI + browser) |
 | [it-ops-scripts](https://github.com/islamelsabahy/it-ops-scripts) | Scripts for everyday IT operations |
 | [awesome-odoo-egypt](https://github.com/islamelsabahy/awesome-odoo-egypt) | Curated Odoo and ETA e-invoicing resources for Egypt |
+| [developer-cashflow-survival](https://github.com/islamelsabahy/developer-cashflow-survival) | Monte Carlo cash-flow survival simulator for real estate developers (Python + browser) |
+| [handover-snag-pwa](https://github.com/islamelsabahy/handover-snag-pwa) | Offline handover inspection and snag-list PWA, Arabic/English |
+| [land-deal-lab](https://github.com/islamelsabahy/land-deal-lab) | Residual land valuation and land-deal structuring workbench |
 
 ## How I build / طريقة الشغل
 
