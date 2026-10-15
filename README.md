@@ -15,6 +15,7 @@
 | **developer-cashflow-survival** | Monte Carlo cash-flow stress test for a developer's project portfolio: will you run out of cash, and when? | [open](https://islamelsabahy.github.io/developer-cashflow-survival/) |
 | **handover-snag-pwa** | Offline-first unit handover and snag-list app with photos and a PDF punch list | [open](https://islamelsabahy.github.io/handover-snag-pwa/) |
 | **land-deal-lab** | Residual land value: the most you can pay for a parcel, by payment structure and owner deal | [open](https://islamelsabahy.github.io/land-deal-lab/) |
+| **egypt-payment-plans** | Compare Egyptian developer payment plans by present value: the hidden discount of each plan vs cash | [open](https://islamelsabahy.github.io/egypt-payment-plans/) |
 
 All of them run entirely client-side: nothing you paste is uploaded. / كلها بتشتغل في المتصفح من غير رفع أي بيانات.
 
@@ -32,6 +33,7 @@ All of them run entirely client-side: nothing you paste is uploaded. / كلها 
 | [developer-cashflow-survival](https://github.com/islamelsabahy/developer-cashflow-survival) | Monte Carlo cash-flow survival simulator for real estate developers (Python + browser) |
 | [handover-snag-pwa](https://github.com/islamelsabahy/handover-snag-pwa) | Offline handover inspection and snag-list PWA, Arabic/English |
 | [land-deal-lab](https://github.com/islamelsabahy/land-deal-lab) | Residual land valuation and land-deal structuring workbench |
+| [egypt-payment-plans](https://github.com/islamelsabahy/egypt-payment-plans) | Present-value comparison of Egyptian payment plans (Python + browser, Arabic/English) |
 
 ## How I build / طريقة الشغل
 
