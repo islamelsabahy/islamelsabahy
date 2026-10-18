@@ -1,10 +1,44 @@
 # Islam El-Sherbiny · إسلام الشربيني
 
-**EN** — IT Manager in Cairo with 14 years in IT, running technology for real estate development companies. I build small, tested, dependency-light tools for the problems I meet at work: ERP and e-invoicing, contracts and cheques, infrastructure and operations. Everything here uses fictional sample data only.
+**EN** — IT Manager in Cairo with 14 years in IT, running technology for real estate development companies. I build tested, dependency-light tools for the problems I meet at work: land deals and cash flow, ERP and e-invoicing, contracts and cheques, IT operations, and practical, governed AI for Egyptian companies. Everything here uses fictional sample data only.
 
-**AR** — مدير تقنية معلومات في مصر / القاهرة، 14 سنة خبرة، بشتغل في قطاع التطوير العقاري. بعمل أدوات صغيرة ومختبرة من مشاكل الشغل الحقيقية: ERP والفاتورة الإلكترونية والعقود والشيكات والبنية التحتية. كل بيانات الأمثلة وهمية.
+**AR** — مدير تقنية معلومات في مصر / القاهرة، 14 سنة خبرة، بشتغل في قطاع التطوير العقاري. بعمل أدوات مختبرة من مشاكل الشغل الحقيقية: صفقات الأراضي والكاش، ERP والفاتورة الإلكترونية، العقود والشيكات، تشغيل الـ IT، وذكاء اصطناعي عملي ومحكوم للشركات المصرية. كل بيانات الأمثلة وهمية.
 
-## Try in the browser / جرّب من المتصفح
+## AI tools for investors and companies / أدوات AI للمستثمرين والشركات
+
+Every tool below works fully without AI. Where it helps, an **optional AI layer** (your own Anthropic API key, kept in the page only) turns the computed numbers into a memo, and the AI is never allowed to invent figures.
+كل أداة شغالة كاملة من غير AI؛ طبقة الـ AI اختيارية بمفتاحك وبتكتب من الأرقام المحسوبة بس.
+
+**For capital owners / لأصحاب رأس المال**
+
+| Tool | What it answers | Live |
+|---|---|---|
+| [ai-deal-memo](https://github.com/islamelsabahy/ai-deal-memo) | Paste a land offer (WhatsApp/broker text, Arabic or English) and get **Go / Negotiate / Walk away**, max price, negotiation range, stress test, red flags and a memo | [open](https://islamelsabahy.github.io/ai-deal-memo/) |
+| [technology-due-diligence-playbook](https://github.com/islamelsabahy/technology-due-diligence-playbook) | Technical due diligence before you invest or acquire: A–E risk grade, red flags, remediation cost, price adjustment and contract protections | [open](https://islamelsabahy.github.io/technology-due-diligence-playbook/) |
+| [technology-investment-arena](https://github.com/islamelsabahy/technology-investment-arena) | Fund, stage, defer or kill AI/IT initiatives under a budget, with surprise events and Monte Carlo | [open](https://islamelsabahy.github.io/technology-investment-arena/) |
+| [ai-executive-war-room](https://github.com/islamelsabahy/ai-executive-war-room) | Five virtual executives vote on a crisis (EGP devaluation, steel spike, collections slowdown) and a Red Team attacks the decision | [open](https://islamelsabahy.github.io/ai-executive-war-room/) |
+
+**For real estate developers / لشركات التطوير العقاري**
+
+| Tool | What it answers | Live |
+|---|---|---|
+| [real-estate-analytics-engine](https://github.com/islamelsabahy/real-estate-analytics-engine) | What launch price and phase step? Price vs absorption, cash, peak funding and a strategy grid | [open](https://islamelsabahy.github.io/real-estate-analytics-engine/) |
+| [real-estate-data-platform](https://github.com/islamelsabahy/real-estate-data-platform) | Which buyers will default next? Transparent scorecard, aging, risk-adjusted forecast and a collections worklist | [open](https://islamelsabahy.github.io/real-estate-data-platform/) |
+| [real-estate-command-center](https://github.com/islamelsabahy/real-estate-command-center) | The owner's dashboard from CSV exports: KPI catalogue, projects, brokers and data-quality exceptions | [open](https://islamelsabahy.github.io/real-estate-command-center/) |
+| [ai-real-estate-sales-agent](https://github.com/islamelsabahy/ai-real-estate-sales-agent) | A grounded WhatsApp sales agent in Egyptian Arabic: qualifies, matches real inventory only, and audits any AI reply | [open](https://islamelsabahy.github.io/ai-real-estate-sales-agent/) |
+| [real-estate-commission-engine](https://github.com/islamelsabahy/real-estate-commission-engine) | Broker/sales commissions: rule priority, eligibility codes, clawbacks, duplicates and statements | [open](https://islamelsabahy.github.io/real-estate-commission-engine/) |
+
+**For companies adopting AI / للشركات اللي داخلة على الـ AI**
+
+| Tool | What it answers | Live |
+|---|---|---|
+| [egypt-ai-readiness](https://github.com/islamelsabahy/egypt-ai-readiness) | 10-minute AI readiness assessment for Egyptian companies: score, gaps, best-fit use cases, 90-day plan | [open](https://islamelsabahy.github.io/egypt-ai-readiness/) |
+| [ai-business-copilot](https://github.com/islamelsabahy/ai-business-copilot) | AI business case: NPV, payback, break-even adoption and USD/EGP exposure per use case | [open](https://islamelsabahy.github.io/ai-business-copilot/) |
+| [enterprise-ai-governance-framework](https://github.com/islamelsabahy/enterprise-ai-governance-framework) | Classify AI use cases, required controls, release gates, registers and an acceptable-use policy (AR/EN) | [open](https://islamelsabahy.github.io/enterprise-ai-governance-framework/) |
+| [ai-it-helpdesk-agent](https://github.com/islamelsabahy/ai-it-helpdesk-agent) | IT helpdesk triage in Arabic/English with priority, SLA on the Egyptian working week and escalation | [open](https://islamelsabahy.github.io/ai-it-helpdesk-agent/) |
+| [n8n-business-workflows](https://github.com/islamelsabahy/n8n-business-workflows) | Five importable n8n workflows: WhatsApp leads, IT routing, instalment reminders, cheque digest, AI classifier with redaction | [open](https://islamelsabahy.github.io/n8n-business-workflows/) |
+
+## Field tools / أدوات ميدانية
 
 | Tool | What it does | Live |
 |---|---|---|
