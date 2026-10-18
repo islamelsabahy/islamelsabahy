@@ -69,6 +69,13 @@ All of them run entirely client-side: nothing you paste is uploaded. / كلها 
 | [land-deal-lab](https://github.com/islamelsabahy/land-deal-lab) | Residual land valuation and land-deal structuring workbench |
 | [egypt-payment-plans](https://github.com/islamelsabahy/egypt-payment-plans) | Present-value comparison of Egyptian payment plans (Python + browser, Arabic/English) |
 
+## GitHub Achievements / إنجازات GitHub
+
+| Badge | Earned for / سبب الحصول عليها |
+|---|---|
+| 🦈 **Pull Shark** ×2 | Merged pull requests (tier 2) / Pull Requests اتعمل لها merge |
+| ⚡ **Quickdraw** | Closed an issue or PR within 5 minutes of opening / قفل Issue أو PR في أقل من 5 دقايق |
+
 ## How I build / طريقة الشغل
 
 - Python standard library where possible; Python and JavaScript versions of the same logic are checked against each other on shared test vectors in CI.
